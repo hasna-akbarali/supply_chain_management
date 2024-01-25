@@ -41,7 +41,4 @@ The solution involves developing and implementing machine learning models to pre
 - Required libraries installed (`requirements.txt` provided)
 - Dataset available (historical sales, demand data)
 
-### Installation
 
-```bash
-pip install -r requirements.txt
